@@ -704,6 +704,15 @@ li img {
         padding-right: 5%;
     }
 
+    h1 {
+        color: rgb(122, 119, 119);
+        font-size: 1.7vw;
+        font-weight: 100;
+        margin-bottom: 3%;
+        margin-right: 50%;
+        margin-top: -3%;
+    }
+
     .box2 {
         margin-left: 3%;
     }
