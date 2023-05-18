@@ -218,7 +218,8 @@ li img {
     position: absolute;
     overflow: hidden;
     white-space: nowrap;
-    margin: 10%;
+    margin: 5%;
+    right: -90%;
 }
 
 .lowerPart img {
@@ -392,6 +393,15 @@ li img {
     padding: 5% 0%;
     width: 30%;
     height: 20%;
+}
+
+h1 {
+    color: rgb(122, 119, 119);
+    font-size: 3vw;
+    font-weight: 100;
+    margin-bottom: 5%;
+    margin-top: -3%;
+    margin-left: 10%;
 }
 
 .mainSection {
@@ -693,7 +703,7 @@ li img {
     
     .lowerPart p {
         font-size: 60%;
-        right: 70%;
+        right: 120%;
         margin-bottom: 7%;
     }
 
@@ -709,7 +719,7 @@ li img {
         font-size: 1.7vw;
         font-weight: 100;
         margin-bottom: 3%;
-        margin-right: 50%;
+        margin-right: 60%;
         margin-top: -3%;
     }
 
